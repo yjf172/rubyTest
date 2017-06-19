@@ -36,3 +36,7 @@ when 2 then puts 's is 2';
 when 3 then puts 's is 3';
 else puts 's in not in [1,2,3]';
 end
+
+for l in [1,2,3]
+puts l
+end
