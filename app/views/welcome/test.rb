@@ -20,4 +20,4 @@ end
 
 Apple.new.color
 Apple.name
-Apple.new.name
+#Apple.new.name
