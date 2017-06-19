@@ -28,3 +28,11 @@ puts 'a is 1'
 else
 puts 'a is not 1'
 end
+
+s=2;
+case s;
+when 1 then puts 's is 1';
+when 2 then puts 's is 2';
+when 3 then puts 's is 3';
+else puts 's in not in [1,2,3]';
+end
