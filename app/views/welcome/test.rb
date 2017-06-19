@@ -18,6 +18,6 @@ class Apple
         end
 end
 
-Apple.new.color
-Apple.name
+puts Apple.new.color
+puts Apple.name
 #Apple.new.name
