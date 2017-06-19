@@ -40,3 +40,7 @@ end
 for l in [1,2,3]
 puts l
 end
+
+[1,2,3].each{ |ss|
+puts ss
+}
