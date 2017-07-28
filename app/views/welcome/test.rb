@@ -1,5 +1,5 @@
 puts "goodbye java"
-# => "goodbye java"
+
 
 name = "jim"
 puts "hi, #{name}!"
